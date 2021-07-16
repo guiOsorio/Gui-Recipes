@@ -1,0 +1,22 @@
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+/* h4 { color: #a9a9a9  "#e5cb90" // "#c90e0e"} */
+
+.randDiv, .mealsContainer {
+    margin: 0 auto;
+    width: 45%;
+    height: 100%;
+}
+
+
+
+img {
+    margin-top: 5%;
+    width: 20em;
+    max-width: 100%;
+    height: auto;
+}

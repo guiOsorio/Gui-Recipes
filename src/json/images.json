@@ -1,0 +1,27 @@
+[
+    {
+        "src": "../assets/funny-food.jpeg",
+        "alt": "Weird food face",
+        "import": "../../assets/funny-food.jpeg"
+    },
+    {
+        "src": "../assets/funny-food2.jpeg",
+        "alt": "Snack couple",
+        "import": "../../assets/funny-food2.jpeg"
+    },
+    {
+        "src": "../assets/funny-food3.jpeg",
+        "alt": "Scary salad faces",
+        "import": "../../assets/funny-food3.jpeg"
+    },
+    {
+        "src": "../assets/funny-food4.jpeg",
+        "alt": "Surprised avocados",
+        "import": "../../assets/funny-food4.jpeg"
+    },
+    {
+        "src": "../assets/potato.jpeg",
+        "alt": "Big eyes potato",
+        "import": "../../assets/potato.jpeg"
+    }
+]
